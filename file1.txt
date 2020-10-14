@@ -1,4 +1,5 @@
 Erste Änderung
+<<<<<<< HEAD
 
 zweite Änderung
 
@@ -9,3 +10,12 @@ vierte Änderung
 fünfte Änderung
 
 777
+=======
+zweite Änderung
+
+dritte Änderung
+5
+6
+7
+8
+>>>>>>> master
