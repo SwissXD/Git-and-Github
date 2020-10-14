@@ -10,6 +10,7 @@ vierte Änderung
 fünfte Änderung
 
 777
+<<<<<<< HEAD
 =======
 zweite Änderung
 
@@ -19,3 +20,8 @@ dritte Änderung
 7
 8
 >>>>>>> master
+=======
+888
+999
+101010
+>>>>>>> branch2
